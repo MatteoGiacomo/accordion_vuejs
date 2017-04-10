@@ -1,2 +1,2 @@
 # accordion_vuejs
-example of accordion in Vue.js
+example of an accordion component in Vue.js
