@@ -32,8 +32,7 @@
           list: {
             type: Array,
             required: true
-          },
-          handlerClick: Function
+          }
       },
       methods: {
           toggleList () {
