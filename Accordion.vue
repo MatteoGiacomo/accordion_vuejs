@@ -6,6 +6,7 @@
         <span>{{ title }}</span>
         <img
           src="<!-- your chevron -->"
+          alt="chevron"
           :class="[{ [$style.open_menu]: isDisplay, [$style.close_menu]: !isDisplay }, $style.accChevron]"
         />
       </div>
